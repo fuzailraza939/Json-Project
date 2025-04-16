@@ -1,0 +1,91 @@
+[
+    {
+        "empName" : "Ali",
+        "empEmail" : "Ali@gamil.com",
+        "empadd" : "Karachi-Pakistan",
+        "empNumber" : "+9234567890",
+        "empSalary" : "1000000"
+
+    },
+
+    {
+        "empName" : "Raza",
+        "empEmail" : "Raza@gamil.com",
+        "empadd" : "Karachi-Pakistan",
+        "empNumber" : "+9234567890",
+        "empSalary" : "1000000"
+
+    },
+
+    {
+        "empName" : "Mohib",
+        "empEmail" : "Mohib@gamil.com",
+        "empadd" : "Karachi-Pakistan",
+        "empNumber" : "+9234567890",
+        "empSalary" : "1000000"
+
+    },
+
+    {
+        "empName" : "Ahmed",
+        "empEmail" : "Ahmed@gamil.com",
+        "empadd" : "Karachi-Pakistan",
+        "empNumber" : "+9234567890",
+        "empSalary" : "1000000"
+
+    },
+    {
+        "empName" : "AhmedRaza",
+        "empEmail" : "AhmedRaza@gamil.com",
+        "empadd" : "Karachi-Pakistan",
+        "empNumber" : "+9234567890",
+        "empSalary" : "1000000"
+
+    },
+
+    {
+        "empName" : "Salaar",
+        "empEmail" : "Salaar@gamil.com",
+        "empadd" : "Karachi-Pakistan",
+        "empNumber" : "+9234567890",
+        "empSalary" : "1000000"
+
+    },
+        
+    {
+        "empName" : "SalaarAhmed",
+        "empEmail" : "SalaarAhmed@gamil.com",
+        "empadd" : "Karachi-Pakistan",
+        "empNumber" : "+9234567890",
+        "empSalary" : "1000000"
+
+    },
+        
+    {
+        "empName" : "ali",
+        "empEmail" : "ali@gamil.com",
+        "empadd" : "Karachi-Pakistan",
+        "empNumber" : "+9234567890",
+        "empSalary" : "1000000"
+
+    },
+        
+    {
+        "empName" : "Usman",
+        "empEmail" : "Usman@gamil.com",
+        "empadd" : "Karachi-Pakistan",
+        "empNumber" : "+9234567890",
+        "empSalary" : "1000000"
+
+    },
+
+        
+    {
+        "empName" : "Rayyan",
+        "empEmail" : "Rayyan@gamil.com",
+        "empadd" : "Karachi-Pakistan",
+        "empNumber" : "+9234567890",
+        "empSalary" : "1000000"
+
+    }
+]
